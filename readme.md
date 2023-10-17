@@ -1,4 +1,4 @@
-# AdGuard_GameList-Filter
+# AdGuard_GameListBaio-Filter
 
 This compilation list is very useful for blocking domains related to online video games.
 It was originally designed to control access to schools.
