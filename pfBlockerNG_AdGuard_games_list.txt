@@ -17061,3 +17061,13 @@ pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 tnc16-useast1a.byteoversea.com
 tiktokcdn-us.com
 bytegecko-i18n.com
+openai.com
+bard.google.com
+chatgptspanish.org
+talkai.info
+gptgo.ai
+chat-gpt.com
+echatgpt.org
+huggingface.co
+zapier.com
+claude.ai
